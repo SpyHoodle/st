@@ -3,7 +3,7 @@ My perfect build of suckless's simple terminal.
 
 ![st screenshot](https://file.coffee/u/EwXVfS6GGdHmbA.png)
 
-## patches
+# patches
 - st-boxdraw_v2-0.8.3.diff
 - st-clipboard-0.8.3.diff
 - st-font2-20190416-ba72400.diff
@@ -11,7 +11,7 @@ My perfect build of suckless's simple terminal.
 - st-scrollback-20210507-4536f46.diff
 - st-scrollback-mouse-20191024-a2c479c.diff
 
-## installation
+# installation
 **Note:** Install the default fonts: Iosevka, Font Awesome and JoyPixels.
 
 Clone the git repository
