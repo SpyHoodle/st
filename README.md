@@ -26,3 +26,6 @@ Make and install st
 ```sh
 make install
 ```
+**Final step:** Add a colourscheme to `~/cols/st.h`. This is where st will read a colorscheme.<br>
+This should be in the usual form st would have a colourscheme in it's own source code, as `st.h` is included at compile time.<br>
+Alternatively, you could change the location of the colourscheme in `config.h`.
