@@ -111,8 +111,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* Terminal colors (16 first used in escape sequence) */
-/* colours from cols */
-#include "/home/spy/.config/cols/st.h"
+#include "colours.h"
 
 /*
  * Default shape of cursor
